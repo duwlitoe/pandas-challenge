@@ -1,0 +1,5 @@
+You must include a written description of at least two observable trends based on the data.
+
+1. Smaller population schools have higher average reading scores, average math scores and higher overall passing average compare to medium and larger population schools. 
+
+2. Charter schools compare to District schools also have higher average reading scores, average math scores and higher overall passing average.
